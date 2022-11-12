@@ -700,6 +700,7 @@ p {
 }
 
 .social {
+    display: none;
     max-width: 400px;
     margin: auto auto auto auto;
 }
@@ -723,7 +724,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #f7f7f7!important;
 }
 
 h4 {
@@ -737,6 +738,9 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+}
+.black {
+    color: #000000!important;
 }
 
 .portfolio-thumb {
@@ -774,9 +778,11 @@ h4 {
 .bgc-atomic-tangerine {
     background-color: #F3976C;
 }
-
 .tc-white {
-    color: #FFF!important;
+    color: #FFFFFF!important;
+}
+.tc-black {
+    color: #000!important;
 }
 
 .btn-atomic-tangerine {
