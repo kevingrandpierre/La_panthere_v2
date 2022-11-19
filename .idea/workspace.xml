@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34213d64-1a91-4ff8-965c-4270a051721b" name="Changes" comment="modify css">
+    <list default="true" id="34213d64-1a91-4ff8-965c-4270a051721b" name="Changes" comment="add size for img">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <workItem from="1668289623786" duration="1226000" />
       <workItem from="1668290860071" duration="7905000" />
       <workItem from="1668780841344" duration="476000" />
-      <workItem from="1668890921739" duration="6444000" />
+      <workItem from="1668890921739" duration="7188000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668289964073</created>
@@ -128,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668897057521</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add size for img">
+      <created>1668898398461</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668898398461</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add size for img">
+      <created>1668898475248</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668898475248</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +165,7 @@
     <MESSAGE value="move css directory" />
     <MESSAGE value="." />
     <MESSAGE value="modify css" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify css" />
+    <MESSAGE value="add size for img" />
+    <option name="LAST_COMMIT_MESSAGE" value="add size for img" />
   </component>
 </project>

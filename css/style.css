@@ -361,16 +361,16 @@ a:hover {
     z-index: 2;
 }
 .navbar-header img{
-    height: 100px;
-    width: 400px;
+    height: 30% !important;
+    width: 40% !important;
 }
 .col-sm-12 img{
-    height: 250px;
-    width: 250px;
+    height: 20% !important;
+    width: 45% !important;
 }
 .col-xs-12 img{
-    height: 150px;
-    width: 600px;
+    height: 20% !important;
+    width: 80% !important;
 }
 @media (min-width: 768px) {
     .site-navigation {
