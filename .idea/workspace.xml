@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34213d64-1a91-4ff8-965c-4270a051721b" name="Changes" comment="modify order js in html" />
+    <list default="true" id="34213d64-1a91-4ff8-965c-4270a051721b" name="Changes" comment="modify order js in html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +70,7 @@
       <workItem from="1668290860071" duration="7905000" />
       <workItem from="1668780841344" duration="476000" />
       <workItem from="1668890921739" duration="8014000" />
-      <workItem from="1669381922558" duration="4261000" />
+      <workItem from="1669381922558" duration="5277000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668289964073</created>
@@ -154,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669386381858</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="modify order js in html">
+      <created>1669386647145</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669386647145</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
