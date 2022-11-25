@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34213d64-1a91-4ff8-965c-4270a051721b" name="Changes" comment="add size for img">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formulaire_de_contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_de_contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="34213d64-1a91-4ff8-965c-4270a051721b" name="Changes" comment="modify order js in html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +68,7 @@
       <workItem from="1668290860071" duration="7905000" />
       <workItem from="1668780841344" duration="476000" />
       <workItem from="1668890921739" duration="8014000" />
-      <workItem from="1669381922558" duration="3793000" />
+      <workItem from="1669381922558" duration="4261000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668289964073</created>
@@ -151,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668899348583</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="modify order js in html">
+      <created>1669386381858</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669386381858</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +179,7 @@
     <MESSAGE value="." />
     <MESSAGE value="modify css" />
     <MESSAGE value="add size for img" />
-    <option name="LAST_COMMIT_MESSAGE" value="add size for img" />
+    <MESSAGE value="modify order js in html" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify order js in html" />
   </component>
 </project>
