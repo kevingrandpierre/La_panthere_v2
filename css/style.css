@@ -372,6 +372,15 @@ a:hover {
     height: 50%;
     width: 100% !important;
 }
+
+q{
+    font-size: 20px;
+    font-weight: 800;
+}
+.author{
+    font-weight: 400;
+    font-size: 20px;
+}
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -759,7 +768,7 @@ h4 {
 
 .portfolio-thumb {
     width: 270px !important;
-    height: 240px !important;
+    height: 270px !important;
     margin: 0 auto 24px auto;
 }
 
