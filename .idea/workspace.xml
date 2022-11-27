@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34213d64-1a91-4ff8-965c-4270a051721b" name="Changes" comment="add font-awesome.min.css">
-      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
+    <list default="true" id="34213d64-1a91-4ff8-965c-4270a051721b" name="Changes" comment="minify style.css">
+      <change beforePath="$PROJECT_DIR$/formulaire_de_contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_de_contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <workItem from="1668780841344" duration="476000" />
       <workItem from="1668890921739" duration="8014000" />
       <workItem from="1669381922558" duration="5277000" />
-      <workItem from="1669533980814" duration="8785000" />
+      <workItem from="1669533980814" duration="9390000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668289964073</created>
@@ -202,7 +202,28 @@
       <option name="project" value="LOCAL" />
       <updated>1669542726481</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="minify style.css">
+      <created>1669543664862</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1669543664862</updated>
+    </task>
+    <task id="LOCAL-00020" summary="minify style.css">
+      <created>1669543687604</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1669543687604</updated>
+    </task>
+    <task id="LOCAL-00021" summary="minify style.css">
+      <created>1669544009523</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1669544009523</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +253,7 @@
     <MESSAGE value="image speed optimisation" />
     <MESSAGE value="add font-display swap" />
     <MESSAGE value="add font-awesome.min.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="add font-awesome.min.css" />
+    <MESSAGE value="minify style.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="minify style.css" />
   </component>
 </project>
