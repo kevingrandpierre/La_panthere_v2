@@ -39,8 +39,8 @@ a:hover {
 }
 
 .bloc .container {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .bloc-lg {
@@ -360,17 +360,12 @@ a:hover {
     position: relative;
     z-index: 2;
 }
-.navbar-header img{
-    height: 30% !important;
-    width: 40% !important;
-}
 .col-sm-12 img{
     height: 20% !important;
     width: 45% !important;
 }
 .col-xs-12 img{
-    height: 20% !important;
-    width: 80% !important;
+    width: 100% !important;
 }
 @media (min-width: 768px) {
     .site-navigation {
@@ -410,6 +405,9 @@ a:hover {
     .nav-center.mini-nav .navbar-toggle {
         float: none;
         margin: 10px auto 0;
+    }
+    .navbar-header{
+        width: 70% !important;
     }
 }
 
@@ -591,7 +589,6 @@ a[data-lightbox]:hover img {
     position: absolute;
     left: 15px;
     right: 15px;
-    bottom: 5px;
 }
 
 .close-lightbox {
@@ -754,7 +751,7 @@ h4 {
 .portfolio-thumb {
     width: 270px !important;
     height: 270px !important;
-    margin-bottom: 24px;
+    margin: 0 auto 24px auto;
 }
 
 .portfolio-row {
