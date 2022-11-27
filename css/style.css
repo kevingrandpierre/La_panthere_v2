@@ -291,8 +291,8 @@ a:hover {
     z-index: 1;
 }
 .navbar-header img{
-    width: 75% !important;
-    height: 100% !important;
+    width: 50% !important;
+    height: 50% !important;
 }
 
 .navbar-brand {
@@ -366,7 +366,7 @@ a:hover {
 }
 .col-sm-12 img{
     height: 20% !important;
-    width: 45% !important;
+    width: 30% !important;
 }
 .col-xs-12 img{
     height: 50%;
@@ -401,8 +401,8 @@ a:hover {
         display: inline-block;
     }
     .navbar-header img{
-        width: 65% !important;
-        height: 100% !important;
+        width: 50% !important;
+        height: 50% !important;
     }
     .nav-center .site-navigation {
         position: relative;
@@ -759,7 +759,7 @@ h4 {
 
 .portfolio-thumb {
     width: 270px !important;
-    height: 270px !important;
+    height: 240px !important;
     margin: 0 auto 24px auto;
 }
 
