@@ -915,7 +915,7 @@ h4 {
 
 @media (max-width: 767px) {/**/
      .navbar-header img{
-        width: 340px !important;
+        width: 325px !important;
         height: 60px !important;
     }
     .col-sm-12 img {
