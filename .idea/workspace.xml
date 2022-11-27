@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34213d64-1a91-4ff8-965c-4270a051721b" name="Changes" comment=".">
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="34213d64-1a91-4ff8-965c-4270a051721b" name="Changes" comment="change image comment to text">
+      <change beforePath="$PROJECT_DIR$/formulaire_de_contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_de_contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
       <workItem from="1668780841344" duration="476000" />
       <workItem from="1668890921739" duration="8014000" />
       <workItem from="1669381922558" duration="5277000" />
-      <workItem from="1669533980814" duration="13800000" />
+      <workItem from="1669533980814" duration="14131000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668289964073</created>
@@ -239,7 +237,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669544895829</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="change image comment to text">
+      <created>1669549149711</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1669549149711</updated>
+    </task>
+    <task id="LOCAL-00025" summary="change image comment to text">
+      <created>1669549174752</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1669549174752</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,6 +282,7 @@
     <MESSAGE value="add font-awesome.min.css" />
     <MESSAGE value="minify style.css" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="change image comment to text" />
+    <option name="LAST_COMMIT_MESSAGE" value="change image comment to text" />
   </component>
 </project>
