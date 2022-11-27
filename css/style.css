@@ -291,8 +291,8 @@ a:hover {
     z-index: 1;
 }
 .navbar-header img{
-    width: 50% !important;
-    height: 50% !important;
+    width: 350px !important;
+    height: 80px !important;
 }
 
 .navbar-brand {
@@ -365,8 +365,8 @@ a:hover {
     z-index: 2;
 }
 .col-sm-12 img{
-    height: 20% !important;
-    width: 30% !important;
+    height: 200px !important;
+    width: 200px !important;
 }
 .col-xs-12 img{
     height: 50%;
@@ -411,10 +411,7 @@ q{
         float: none;
         display: inline-block;
     }
-    .navbar-header img{
-        width: 50% !important;
-        height: 50% !important;
-    }
+
     .nav-center .site-navigation {
         position: relative;
         width: 100%;
@@ -769,8 +766,8 @@ h4 {
 }
 
 .portfolio-thumb {
-    width: 270px !important;
-    height: 270px !important;
+    width: 250px !important;
+    height: 250px !important;
     margin: 0 auto 24px auto;
 }
 
@@ -916,7 +913,15 @@ h4 {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 767px) {/**/
+     .navbar-header img{
+        width: 300px !important;
+        height: 50px !important;
+    }
+    .col-sm-12 img {
+        height: 150px !important;
+        width: 150px !important;
+    }
     .page-container {
         overflow-x: hidden;
         position: relative;
