@@ -372,7 +372,9 @@ a:hover {
     height: 50%;
     width: 100% !important;
 }
-
+.comments {
+    margin: 0 15px;
+}
 q{
     font-size: 20px;
     font-weight: 800;
