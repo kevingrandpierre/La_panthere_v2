@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34213d64-1a91-4ff8-965c-4270a051721b" name="Changes" comment="add cdn and delete jquery file and reformat text comment">
+    <list default="true" id="34213d64-1a91-4ff8-965c-4270a051721b" name="Changes" comment="version of jquery">
       <change beforePath="$PROJECT_DIR$/formulaire_de_contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_de_contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -75,7 +75,7 @@
       <workItem from="1668780841344" duration="476000" />
       <workItem from="1668890921739" duration="8014000" />
       <workItem from="1669381922558" duration="5277000" />
-      <workItem from="1669533980814" duration="17170000" />
+      <workItem from="1669533980814" duration="17918000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668289964073</created>
@@ -266,7 +266,28 @@
       <option name="project" value="LOCAL" />
       <updated>1669552390365</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary=".">
+      <created>1669552821381</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1669552821381</updated>
+    </task>
+    <task id="LOCAL-00029" summary=".">
+      <created>1669552971177</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1669552971177</updated>
+    </task>
+    <task id="LOCAL-00030" summary="version of jquery">
+      <created>1669553234619</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1669553234619</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,8 +318,9 @@
     <MESSAGE value="add font-awesome.min.css" />
     <MESSAGE value="minify style.css" />
     <MESSAGE value="change image comment to text" />
-    <MESSAGE value="." />
     <MESSAGE value="add cdn and delete jquery file and reformat text comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cdn and delete jquery file and reformat text comment" />
+    <MESSAGE value="." />
+    <MESSAGE value="version of jquery" />
+    <option name="LAST_COMMIT_MESSAGE" value="version of jquery" />
   </component>
 </project>
