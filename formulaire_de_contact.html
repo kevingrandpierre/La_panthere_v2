@@ -34,7 +34,7 @@
 <div class="page-container">
 
 	<!-- bloc-0 -->
-	<div class="bloc bgc-white l-bloc " id="bloc-0">
+	<header class="bloc bgc-white l-bloc " id="bloc-0">
 		<div class="container bloc-sm">
 
 			<nav class="navbar row">
@@ -47,128 +47,132 @@
 				<div class="collapse navbar-collapse navbar-1 special-dropdown-nav">
 					<ul class="site-navigation nav navbar-nav">
 						<li>
-							<a href="index.html">Accueil</a>
+							<a href="index.html" aria-label="accès à l'écran d'accueil">Accueil</a>
 						</li>
 						<li>
 						</li>
 						<li>
-							<a href="formulaire_de_contact.html">Contactez-nous</a>
+							<a href="formulaire_de_contact.html" aria-label="accès au formulaire de contact">Contactez-nous</a>
 						</li>
 					</ul>
 				</div>
 			</nav>
 		</div>
-	</div>
+	</header>
 	<!-- bloc-0 END -->
-
-<!-- bloc-6 -->
-<div class="bloc bg-dots-bg bg-repeat bgc-atomic-tangerine d-bloc bloc-bg-texture texture-paper" id="bloc-6">
-	<div class="container bloc-lg">
-		<div class="row">
-			<div class="col-sm-12">
-				<h1 class="text-center hero-bloc-text tc-black">
-					Parlons web design !
-				</h1>
-				<p class="text-center mg-lg tc-black tight-width-whitespace">
-					Nous sommes ravis que vous souhaitiez collaborer avec notre agence.<br>
-					Parlez-nous de votre projet en complétant le formulaire ci-dessous.
-				</p>
+<main>
+	<!-- bloc-6 -->
+	<section class="bloc bg-dots-bg bg-repeat bgc-atomic-tangerine d-bloc bloc-bg-texture texture-paper" id="bloc-6">
+		<div class="container bloc-lg">
+			<div class="row">
+				<div class="col-sm-12">
+					<h1 class="text-center hero-bloc-text tc-black">
+						Parlons web design !
+					</h1>
+					<p class="text-center mg-lg tc-black tight-width-whitespace">
+						Nous sommes ravis que vous souhaitiez collaborer avec notre agence.<br>
+						Parlez-nous de votre projet en complétant le formulaire ci-dessous.
+					</p>
+				</div>
 			</div>
 		</div>
-	</div>
-</div>
-<!-- bloc-6 END -->
+	</section>
+	<!-- bloc-6 END -->
 
-<!-- bloc-7 -->
-<div class="bloc bgc-white l-bloc" id="bloc-7">
-	<div class="container bloc-lg">
-		<div class="row">
-			<div class="col-sm-6">
-				<form id="form_1" novalidate >
-					<div class="form-group">
-						<label>
-							Nom
-						<input id="name" placeholder="Nom" class="form-control" required>
-						</label>
-					</div>
-					<div class="form-group">
-						<label>
-							Prénom
-							<input id="firstName" placeholder="Prénom" class="form-control" required>
-						</label>
-					</div>
-					<div class="form-group">
-						<label>
-							Adresse email
-						<input id="email" placeholder="exemple@mail.com" class="form-control" type="email" required>
-						</label>
-					</div>
-					<div class="form-group">
-						<label>
-							Comment nous avez-vous connu ?
-						<select id="select" class="form-control">
-							<option value="Google">
-								Google
-							</option>
-							<option value="Facebook">
-								Facebook
-							</option>
-							<option value="Instagram">
-								Instagram
-							</option>
-							<option value="Autres_entreprise">
-								Autre entreprise
-							</option>
-							<option value="Magazine">
-								Magazine spécialisé
-							</option>
-							<option value="Autre">
-								Autre
-							</option>
-						</select>
-						</label>
-					</div>
-					<div class="form-group">
-						<label>
-							Brief de votre projet (Ajoutez autant de détails que nécessaire)<br>
-						<textarea id="message" class="form-control" rows="4" cols="50" required></textarea>
-						</label>
-					</div> 
-					<button class="bloc-button btn btn-lg btn-block cta-hero btn-atomic-tangerine" type="submit">
-						Envoyer
-					</button>
-				</form>
-			</div>
-			<div class="col-sm-6">
+	<!-- bloc-7 -->
+	<section class="bloc bgc-white l-bloc" id="bloc-7">
+		<div class="container bloc-lg">
+			<div class="row">
+				<div class="col-sm-6">
+					<form id="form_1" novalidate >
+						<div class="form-group">
+							<label for="name">
+								Votre nom
+								<input id="name" placeholder="Nom" class="form-control" aria-labelledby="nom" required>
+							</label>
+						</div>
+						<div class="form-group">
+							<label for="firstName">
+								Votre prénom
+								<input id="firstName" placeholder="Prénom" class="form-control" aria-labelledby="prénom" required>
+							</label>
+						</div>
+						<div class="form-group">
+							<label for="email">
+								Votre adresse email
+								<input id="email" placeholder="exemple@mail.com" class="form-control" type="email" aria-labelledby="email" required>
+							</label>
+						</div>
+						<div class="form-group">
+							<label for="select">
+								Comment nous avez-vous connu ?
+								<select id="select" class="form-control">
+									<option value="Google" aria-label="google">
+										Google
+									</option>
+									<option value="Facebook" aria-label="facebook">
+										Facebook
+									</option>
+									<option value="Instagram" aria-label="instagram">
+										Instagram
+									</option>
+									<option value="Autre_entreprise" aria-label="autre entreprise">
+										Autre entreprise
+									</option>
+									<option value="Magazine" aria-label="magazine">
+										Magazine spécialisé
+									</option>
+									<option value="Autre" aria-label="autre">
+										Autre
+									</option>
+								</select>
+							</label>
+						</div>
+						<div class="form-group">
+							<label for="message">
+								Brief de votre projet (Ajoutez autant de détails que nécessaire)<br>
+								<textarea id="message" class="form-control" rows="4" cols="50" aria-labelledby="message" required></textarea>
+							</label>
+						</div>
+						<button class="bloc-button btn btn-lg btn-block cta-hero btn-atomic-tangerine" type="submit" aria-label="Envoyer le formulaire">
+							Envoyer
+						</button>
+					</form>
+				</div>
+				<div class="col-sm-6">
 
-				<p>
-					Adresse mail de contact :
-					<a
-							href="mailto:contact@agencelapanthere.com">contact@agencelapanthere.com
-					</a>
-					<br>2 place Sathonay 69001 Lyon<br>Ouvert de 9h à 18h, du lundi au vendredi
-				</p>
+					<p>
+						Adresse mail de contact :
+						<a
+								href="mailto:contact@agencelapanthere.com" aria-label="adresse mail de contact">contact@agencelapanthere.com
+						</a>
+						<br>2 place Sathonay 69001 Lyon<br>Ouvert de 9h à 18h, du lundi au vendredi
+					</p>
+				</div>
 			</div>
 		</div>
-	</div>
-</div>
-<!-- bloc-7 END -->
+	</section>
+	<!-- bloc-7 END -->
+</main>
+
 
 
 
 <!-- Footer - bloc-8 -->
-<div class="bloc bgc-atomic-tangerine d-bloc" id="bloc-8">
-	<div class="container bloc-sm">
-		<div class="row">
-			<div class="col-sm-12">
-				<p class="text-center black">
-					Agence La Panthère - Agence web basée à Lyon.<br>
-				</p>
+<footer>
+	<div class="bloc bgc-atomic-tangerine d-bloc" id="bloc-8">
+		<div class="container bloc-sm">
+			<div class="row">
+				<div class="col-sm-12">
+					<p class="text-center black">
+						Agence La Panthère - Agence web basée à Lyon.<br>
+					</p>
+				</div>
 
 			</div>
 		</div>
 	</div>
-</div>
+</footer>
 <!-- Footer - bloc-8 END -->
 
 </div>
