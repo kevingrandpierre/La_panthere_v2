@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34213d64-1a91-4ff8-965c-4270a051721b" name="Changes" comment="suppression &lt;link rel=&quot;preload&quot; as=&quot;font&quot;&gt; inutile">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="34213d64-1a91-4ff8-965c-4270a051721b" name="Changes" comment="semantic modification add : -header -main -section -footer. Add attribute for in the contact form. Add aria-label to aid the navigation of the visually impaired">
       <change beforePath="$PROJECT_DIR$/formulaire_de_contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_de_contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +79,7 @@
       <workItem from="1669968566114" duration="31000" />
       <workItem from="1669968618346" duration="6828000" />
       <workItem from="1670008037957" duration="37000" />
-      <workItem from="1670068234539" duration="3662000" />
+      <workItem from="1670068234539" duration="4095000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668289964073</created>
@@ -386,7 +382,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669986152651</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="semantic modification add : -header -main -section -footer. Add attribute for in the contact form. Add aria-label to aid the navigation of the visually impaired">
+      <created>1670072085023</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1670072085023</updated>
+    </task>
+    <task id="LOCAL-00045" summary="semantic modification add : -header -main -section -footer. Add attribute for in the contact form. Add aria-label to aid the navigation of the visually impaired">
+      <created>1670072328554</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1670072328554</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,6 +432,7 @@
     <MESSAGE value="modify img" />
     <MESSAGE value="." />
     <MESSAGE value="suppression &lt;link rel=&quot;preload&quot; as=&quot;font&quot;&gt; inutile" />
-    <option name="LAST_COMMIT_MESSAGE" value="suppression &lt;link rel=&quot;preload&quot; as=&quot;font&quot;&gt; inutile" />
+    <MESSAGE value="semantic modification add : -header -main -section -footer. Add attribute for in the contact form. Add aria-label to aid the navigation of the visually impaired" />
+    <option name="LAST_COMMIT_MESSAGE" value="semantic modification add : -header -main -section -footer. Add attribute for in the contact form. Add aria-label to aid the navigation of the visually impaired" />
   </component>
 </project>
