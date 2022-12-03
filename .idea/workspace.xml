@@ -79,7 +79,7 @@
       <workItem from="1669968566114" duration="31000" />
       <workItem from="1669968618346" duration="6828000" />
       <workItem from="1670008037957" duration="37000" />
-      <workItem from="1670068234539" duration="4095000" />
+      <workItem from="1670068234539" duration="4457000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668289964073</created>
@@ -396,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670072328554</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="semantic modification add : -header -main -section -footer. Add attribute for in the contact form. Add aria-label to aid the navigation of the visually impaired">
+      <created>1670072458111</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1670072458111</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
